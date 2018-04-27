@@ -11,7 +11,7 @@ A ideia deste tutorial e dar uma rapida introducao sobre essa placa, e te ensina
 ---
 
 ### Menu
-- [Comecando]()
+- [Comecando](#comecando)
 - [Configuracoes Iniciais]()
 - [Gravando seu primeiro programa]()
 - [Funcao Setup & Loop]()
