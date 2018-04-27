@@ -4,6 +4,6 @@ Repositorio centralizador de dicas, tutoriais, links uteis, instalacao, document
 
 ### Lista de Tutoriais
 
-- [ ] [Arduino](/Arduino.md)
-- [ ] [Esp32](/Esp32.md)
-- [ ] [Modbus IP](/ModbusIP.md)
+- [Arduino](/Arduino.md)
+- [Esp32](/Esp32.md)
+- [Modbus IP](/ModbusIP.md)
