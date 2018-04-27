@@ -1,6 +1,8 @@
 ## Arduino
 
-![Arduino](/img/Arduino-uno-perspective-transparent.png)
+<p align="center">
+  <img scr="https://raw.githubusercontent.com/iomakers/Tutoriais/master/img/Arduino-uno-perspective-transparent.png"/>
+</p>
 
 De acordo com Wikipedia:
 
